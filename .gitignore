@@ -1,0 +1,53 @@
+# --- Environment Variables ---
+# CRITICAL: Ignores the .env file containing your API keys.
+.env
+API.txt
+# --- Data Files ---
+# Ignores the large data files inside the 'data' directory, but keeps the folder.
+data/*.csv
+data/*.feather
+
+# --- Saved Models & Outputs ---
+# Ignores binary model files, scalers, and generated results.
+saved_models/*.pth
+saved_models/*.gz
+saved_models/trade_log.csv
+saved_models/equity_curve.csv
+*.png
+
+# --- Python Specific (Standard) ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# --- Virtual Environments (Standard) ---
+venv/
+env/
+.venv/
+.env/
+
+# --- IDE and System Files (Standard)---
+.idea/
+.vscode/
+.DS_Store
+
+# --- Distribution / packaging (Standard) ---
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
