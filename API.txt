@@ -1,0 +1,17 @@
+
+
+
+Dog Binance
+
+secret key: XL3VW8HfoiiQxgt8Oje9HlomrPikt8J6dRzdgcnzJnqWDqLEMnCPbRGVtpdSf5jh
+api key: ItCva0wmAprHTwiRE45OO1HcQlLZkVXdSYqkdSUu3AsWneK8Ph9fsUKrKBIeDiLh
+
+
+
+CoinEx:
+
+api key/acces id : 2546B2DC367D49DD90EC80ABF27C5FD6
+secret key : 2597E831431CAC9E7E2097B8C38B4AAA5A6488A05098DED7
+
+
+
